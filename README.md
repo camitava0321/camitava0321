@@ -22,7 +22,7 @@
 
 |Work(In Progress!)|
 |-----|
-|<a href="https://aryashah.hashnode.dev"><img align="left" alt="Arya's Hashnode Blog" width="30px" src="https://github.com/aryashah2k/aryashah2k/blob/main/assets/hashnode.svg" /></a><a href="https://www.kaggle.com/amitavachakraborty"><img align="left" alt="Amitava In Kaggle" width="30px" src="https://github.com/camitava0321/camitava0321/blob/main/assets/kaggle-icon.svg" /></a><a href="https://dockship.io/author/aryash-095"><img align="left" alt="Arya's Dockship" width="80px" src="https://github.com/aryashah2k/aryashah2k/blob/main/assets/dockship-logo.png" /></a>|
+|<a href="https://camitavasubs.hashnode.dev"><img align="left" alt="Amitava In Hashnode Blog" width="30px" src="https://github.com/camitava0321/camitava0321/blob/main/assets/hashnode.svg" /></a><a href="https://www.kaggle.com/amitavachakraborty"><img align="left" alt="Amitava In Kaggle" width="30px" src="https://github.com/camitava0321/camitava0321/blob/main/assets/kaggle-icon.svg" /></a><a href="https://dockship.io/author/camitava0321"><img align="left" alt="Amitava In Dockship" width="80px" src="https://github.com/camitava0321/camitava0321/blob/main/assets/dockship-logo.png" /></a>|
 
 |Follow / Connect With Me|
 |-----|
