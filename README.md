@@ -14,8 +14,7 @@
 
 
 <p align="center">
-<img align="" height='150px' src="https://github.com/camitava0321/camitava0321/blob/main/assets/Readme%20GIF.gif" />
-<img align="" height='150px' src="https://github.com/camitava0321/camitava0321/blob/main/assets/Name%20Banner.jpg" />
+<img align="" height='150px' src="https://github.com/camitava0321/camitava0321/blob/main/assets/001.jpg" />
 </p>
 
 
