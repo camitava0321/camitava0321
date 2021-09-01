@@ -14,7 +14,7 @@
 
 
 <p align="center">
-<img align="" height='150px' src="https://github.com/camitava0321/camitava0321/blob/main/assets/001.jpg" />
+<img align="" width='1000px' src="https://github.com/camitava0321/camitava0321/blob/main/assets/001.jpg" />
 </p>
 
 
