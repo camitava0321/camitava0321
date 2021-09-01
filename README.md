@@ -1,4 +1,7 @@
-### Hi there 👋
+<p align="center">
+<img align="" width='1300px' src="https://github.com/camitava0321/camitava0321/blob/main/assets/001.jpg" />
+</p>
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,12 +16,9 @@
 
 
 
-<p align="center">
-<img align="" width='1000px' src="https://github.com/camitava0321/camitava0321/blob/main/assets/001.jpg" />
-</p>
 
 
-## Hello, World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> This is Amitava 🙋‍♂️.
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> This is Amitava 🙋‍♂️.
 
 
 <img align="right" src="https://github.com/camitava0321/camitava0321/blob/main/assets/Geometric.gif" alt="gif">
