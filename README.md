@@ -24,6 +24,7 @@
   <img height='100px' src="https://github.com/camitava0321/camitava0321/blob/main/assets/architect-certification-level-expert.png" /> 
   <img height='100px' src="https://github.com/camitava0321/camitava0321/blob/main/assets/blockchain-essentials-for-developers.png" /> 
   <img height='100px' src="https://github.com/camitava0321/camitava0321/blob/main/assets/ibm-design-thinking.png" /> 
+      <p>👑 Other Badges in Credly - https://www.credly.com/users/amitava-chakraborty.c36ac064/badges</p>
     </td>
   </tr>
 </table>
