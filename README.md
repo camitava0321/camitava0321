@@ -101,9 +101,9 @@
 <table>
   <tr>
     <td>
-<img align="" width='300px' src="https://github-readme-stats.vercel.app/api?username=camitava0321&hide_title=true&show_icons=true&theme=blux&include_all_commits=true" alt="camitava0321" />
-<img align="" width='300px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=camitava0321&hide_title=false&layout=compact&theme=gotham&count_private=true" />
-<img align="" width='300px' src="http://github-readme-streak-stats.herokuapp.com?user=camitava0321&theme=blux" alt="camitava0321" href="https://git.io/streak-stats"/>
+<img align="" width='500px' src="https://github-readme-stats.vercel.app/api?username=camitava0321&hide_title=true&show_icons=true&theme=gotham&include_all_commits=true" alt="camitava0321" />
+<img align="" width='500px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=camitava0321&hide_title=false&layout=compact&theme=gotham&count_private=true" />
+<img align="" width='500px' src="http://github-readme-streak-stats.herokuapp.com?user=camitava0321&theme=blux" alt="camitava0321" href="https://git.io/streak-stats"/>
     </td>
     <td>
 <img align="" height='500px' src="https://metrics.lecoq.io/camitava0321" href="https://metrics.lecoq.io/camitava0321"/>
