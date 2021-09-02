@@ -4,12 +4,17 @@
 <h1 align="center">Hi 👋, I'm Amitava Chakraborty</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=camitava0321&label=Profile%20views&color=0e75b6&style=flat" alt="camitava0321" /> </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=camitava0321&theme=juicyfresh)](https://github.com/ryo-ma/github-profile-trophy)
 
-<p align="left"> <a href="https://twitter.com/camitava0321" target="blank"><img src="https://img.shields.io/twitter/follow/camitava0321?logo=twitter&style=for-the-badge" alt="camitava0321" /></a> </p>
 
+<table>
+  <tr>
+    <td>Work In Progress</td>
+    <td>Connect With Me</td>
+  </tr>
+  <tr>
+    <td>
 - 🔭 I’m currently working on **ABC**
 
 - 🌱 I’m currently learning **ABCD**
@@ -30,6 +35,17 @@
 
 - 😄 Pronouns: ...
 - ⚡ Fun fact **abc**
+    </td>
+    <td>
+<p align="left"> <img src="https://github.com/camitava0321/camitava0321/blob/main/assets/002.jpg" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=camitava0321&label=Profile%20views&color=0e75b6&style=flat" alt="camitava0321" /> </p>
+<p align="left"> <a href="https://twitter.com/camitava0321" target="blank"><img src="https://img.shields.io/twitter/follow/camitava0321?logo=twitter&style=for-the-badge" alt="camitava0321" /></a> </p>
+    </td>
+  </tr>
+</table>
+
+
+
 
 
 
