@@ -109,14 +109,8 @@
   </tr>
 </table>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=camitava0321&theme=blux)](https://git.io/streak-stats)
-![GitHub metrics](https://metrics.lecoq.io/camitava0321)
-
-
-|Github Streak|StackOverflow!|
-|:-----------:|:-----:|
-
 [![StackOverflow](https://github-readme-stackexchange.vercel.app/?userID=camitavasubs&theme=dark)](https://quantumcomputing.stackexchange.com/users/9201/amitava-chakraborty)
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=camitava0321&theme=juicyfresh)](https://github.com/ryo-ma/github-profile-trophy)
 
 
@@ -132,10 +126,6 @@
 <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
 <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
-<p align="center"> 
-  Visitor Count<br>
-<img src="https://profile-counter.glitch.me/camitava0321/count.svg" />
-</p>
 
 
 
@@ -200,3 +190,7 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
+<p align="center"> 
+  Visitor Count<br>
+<img src="https://profile-counter.glitch.me/camitava0321/count.svg" />
+</p>
