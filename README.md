@@ -1,18 +1,35 @@
 <p align="center">
 <img align="" width='1300px' src="https://github.com/camitava0321/camitava0321/blob/main/assets/001.jpg" />
 </p>
+<h1 align="center">Hi 👋, I'm Amitava Chakraborty</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=camitava0321&label=Profile%20views&color=0e75b6&style=flat" alt="camitava0321" /> </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=camitava0321" alt="camitava0321" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/a" target="blank"><img src="https://img.shields.io/twitter/follow/camitava0321?logo=twitter&style=for-the-badge" alt="camitava0321" /></a> </p>
+
+- 🔭 I’m currently working on **ABC**
+
+- 🌱 I’m currently learning **ABCD**
+
+- 👯 I’m looking to collaborate on **DEF**
+
+- 🤝 I’m looking for help with **GHI**
+
+- 👨‍💻 All of my projects are available at [a.b](a.b)
+
+- 📝 I regularly write articles on [a.b](a.b)
+
+- 💬 Ask me about **ABCD**
+
+- 📫 How to reach me **a@gmail.com**
+
+- 📄 Know about my experiences [resume-link](resume-link)
+
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-
+- ⚡ Fun fact **abc**
 
 
 
@@ -73,34 +90,6 @@
 
 
 
-<h1 align="center">Hi 👋, I'm Amitava Chakraborty</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=a&label=Profile%20views&color=0e75b6&style=flat" alt="a" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=a" alt="a" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/a" target="blank"><img src="https://img.shields.io/twitter/follow/a?logo=twitter&style=for-the-badge" alt="a" /></a> </p>
-
-- 🔭 I’m currently working on **ABC**
-
-- 🌱 I’m currently learning **ABCD**
-
-- 👯 I’m looking to collaborate on **DEF**
-
-- 🤝 I’m looking for help with **GHI**
-
-- 👨‍💻 All of my projects are available at [a.b](a.b)
-
-- 📝 I regularly write articles on [a.b](a.b)
-
-- 💬 Ask me about **ABCD**
-
-- 📫 How to reach me **a@gmail.com**
-
-- 📄 Know about my experiences [resume-link](resume-link)
-
-- ⚡ Fun fact **abc**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
