@@ -2,7 +2,7 @@
 <img align="" width='1300px' src="https://github.com/camitava0321/camitava0321/blob/main/assets/001.jpg" />
 </p>
 <h1 align="center">Hi 👋, I'm Amitava Chakraborty</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">IT Magicks Performer</h3>
 
 
 
