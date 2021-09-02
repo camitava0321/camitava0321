@@ -109,8 +109,7 @@
 
 [![StackOverflow](https://github-readme-stackexchange.vercel.app/?userID=camitavasubs&theme=dark)](https://quantumcomputing.stackexchange.com/users/9201/amitava-chakraborty)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=camitava0321&theme=juicyfresh)](https://github.com/ryo-ma/github-profile-trophy)
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=camitava0321&theme=juicyfresh&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=camitava0321&theme=react-dark&area=true)
