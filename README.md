@@ -54,7 +54,7 @@
 |Github Streak|StackOverflow!|
 |:-----------:|:-----:|
 |[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=camitava0321&theme=blux)](https://git.io/streak-stats)
-|[![StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=camitava0321&theme=dark)](https://stackoverflow.com/users/13949231/camitava0321)|
+|[![StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=camitavasubs&theme=dark)](https://quantumcomputing.stackexchange.com/users/9201/amitava-chakraborty)|
 
 
 
