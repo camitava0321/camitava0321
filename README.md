@@ -100,15 +100,11 @@
 
 <table>
   <tr>
-    <td>Work In Progress</td>
-    <td>Connect With Me</td>
-  </tr>
-  <tr>
     <td>
-<img align="" src="http://github-readme-streak-stats.herokuapp.com?user=camitava0321&theme=blux" alt="camitava0321" />
+<img align="" src="http://github-readme-streak-stats.herokuapp.com?user=camitava0321&theme=blux" alt="camitava0321" href="https://git.io/streak-stats"/>
     </td>
     <td>
-<img align="" height='150px' src="https://metrics.lecoq.io/camitava0321"/>
+<img align="" src="https://metrics.lecoq.io/camitava0321" href="https://metrics.lecoq.io/camitava0321"/>
     </td>
   </tr>
 </table>
