@@ -6,10 +6,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=camitava0321&label=Profile%20views&color=0e75b6&style=flat" alt="camitava0321" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=juicyfresh
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=camitava0321&theme=juicyfresh
 " alt="camitava0321" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/a" target="blank"><img src="https://img.shields.io/twitter/follow/camitava0321?logo=twitter&style=for-the-badge" alt="camitava0321" /></a> </p>
+<p align="left"> <a href="https://twitter.com/camitava0321" target="blank"><img src="https://img.shields.io/twitter/follow/camitava0321?logo=twitter&style=for-the-badge" alt="camitava0321" /></a> </p>
 
 - 🔭 I’m currently working on **ABC**
 
@@ -44,34 +44,16 @@
   </tr>
   <tr>
     <td>
+<a href="https://kaggle.com/camitavasubs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="a" height="30" width="40" /></a>
       <a href="https://www.kaggle.com/amitavachakraborty"><img align="left" alt="Amitava In Kaggle" width="30px" src="https://github.com/camitava0321/camitava0321/blob/main/assets/kaggle-icon.svg" /></a>     
       <a href="https://camitavasubs.hashnode.dev"><img align="left" alt="Amitava In Hashnode Blog" width="30px" src="https://github.com/camitava0321/camitava0321/blob/main/assets/hashnode.svg" /></a>    <a href="https://dockship.io/author/camitava0321"><img align="left" alt="Amitava In Dockship" width="80px" src="https://github.com/camitava0321/camitava0321/blob/main/assets/dockship-logo.png" /></a>
-    </td>
-    <td>
-      <a href="https://www.linkedin.com/in/amitavachakraborty/"><img align="left" alt="Amitava In LinkedIn" width="30px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg" /></a>
-      <a href="https://stackoverflow.com/users/13949231/camitava0321"><img align="left" alt="Amitava In Stackoverlfow" width="30px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/stackoverflow.svg"/></a>
-<a href="mailto:camitavasubs@gmail.com"><img align="left" alt="Amitava In  Gmail" width="30px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/gmail.svg" /></a>
-      <a href="https://www.facebook.com/camitava0321/"><img align="left" alt="Amitava In Twitter" width="30px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/facebook.svg" /></a>
-      <a href="https://www.instagram.com/camitava0321/"><img align="left" alt="Amitava In Instagram" width="30px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/instagram.svg" /></a>
-      <a href="https://www.reddit.com/user/camitava0321/"><img align="left" alt="Arya's Reddit" width="30px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/reddit.svg" /></a>
-    </td>
-  </tr>
-</table>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
 <a href="https://codepen.io/camitavasubs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="camitavasubs" height="30" width="40" /></a>
 <a href="https://dev.to/camitavasubs" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="camitavasubs" height="30" width="40" /></a>
-<a href="https://twitter.com/camitavasubs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="a" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/camitavasubs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="a" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/camitavasubs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="a" height="30" width="40" /></a>
 <a href="https://codesandbox.com/camitavasubs" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="a" height="30" width="40" /></a>
-<a href="https://kaggle.com/camitavasubs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="a" height="30" width="40" /></a>
-<a href="https://fb.com/camitavasubs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="a" height="30" width="40" /></a>
-<a href="https://instagram.com/camitavasubs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="a" height="30" width="40" /></a>
+      <a href="https://stackoverflow.com/users/13949231/camitava0321"><img align="left" alt="Amitava In Stackoverlfow" width="30px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/stackoverflow.svg"/></a>
 <a href="https://dribbble.com/camitavasubs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="a" height="30" width="40" /></a>
 <a href="https://www.behance.net/camitavasubs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="a" height="30" width="40" /></a>
-<a href="https://medium.com/camitavasubs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="a" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/camitavasubs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="a" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/camitavasubs" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="a" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/camitavasubs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="a" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/camitavasubs" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="a" height="30" width="40" /></a>
@@ -79,9 +61,23 @@
 <a href="https://www.hackerearth.com/camitavasubs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="a" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/camitavasubs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="a" height="30" width="40" /></a>
 <a href="https://www.topcoder.com/members/camitavasubs" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/topcoder.svg" alt="a" height="30" width="40" /></a>
+    </td>
+    <td>
+      <a href="https://linkedin.com/in/amitavachakraborty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amitavachakraborty" height="30" width="40" /></a>
+<a href="https://fb.com/camitavasubs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="a" height="30" width="40" /></a>
+<a href="mailto:camitavasubs@gmail.com"><img align="left" alt="Amitava In  Gmail" width="30px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/gmail.svg" /></a>
+      <a href="https://www.facebook.com/camitava0321/"><img align="left" alt="Amitava In Twitter" width="30px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/facebook.svg" /></a>
+      <a href="https://www.instagram.com/camitava0321/"><img align="left" alt="Amitava In Instagram" width="30px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/instagram.svg" /></a>
+      <a href="https://www.reddit.com/user/camitava0321/"><img align="left" alt="Arya's Reddit" width="30px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/reddit.svg" /></a>
+<a href="https://twitter.com/camitava0321" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="a" height="30" width="40" /></a>
+<a href="https://instagram.com/camitavasubs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="a" height="30" width="40" /></a>
+<a href="https://medium.com/camitavasubs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="a" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/camitavasubs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="a" height="30" width="40" /></a>
 <a href="https://discord.gg/camitavasubs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="a" height="30" width="40" /></a>
 <a href="/a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="a" height="30" width="40" /></a>
-</p>
+    </td>
+  </tr>
+</table>
 
 
 
