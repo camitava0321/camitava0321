@@ -91,9 +91,9 @@
   </tr>
 </table>
 
+<p></p>
 
-
-### More Github Statistics
+### Github Statistics
 
 <table>
   <tr>
@@ -103,7 +103,7 @@
 <img align="" width='450px' src="http://github-readme-streak-stats.herokuapp.com?user=camitava0321&theme=gotham" alt="camitava0321" href="https://git.io/streak-stats"/>
     </td>
     <td>
-<img align="" width='1000px' height='430px' src="https://metrics.lecoq.io/camitava0321" href="https://metrics.lecoq.io/camitava0321"/>
+<img align="" width='1300px' height='430px' src="https://metrics.lecoq.io/camitava0321" href="https://metrics.lecoq.io/camitava0321"/>
     </td>
   </tr>
 </table>
