@@ -17,7 +17,13 @@
       </p>
     </td>
     <td>
-  <img height='25px' src="https://github.com/camitava0321/camitava0321/blob/main/assets/architect-certification-level-expert.png" /> 
+  <img height='100px' src="https://github.com/camitava0321/camitava0321/blob/main/assets/IBM_Quantum_Challenge_2021_Achievement_V2.png" /> 
+  <img height='100px' src="https://github.com/camitava0321/camitava0321/blob/main/assets/First-patent.png" /> 
+  <img height='100px' src="https://github.com/camitava0321/camitava0321/blob/main/assets/azure-ai-fundamentals-600x600.png" /> 
+  <img height='100px' src="https://github.com/camitava0321/camitava0321/blob/main/assets/IBM-Quantum-Conversations.png" /> 
+  <img height='100px' src="https://github.com/camitava0321/camitava0321/blob/main/assets/architect-certification-level-expert.png" /> 
+  <img height='100px' src="https://github.com/camitava0321/camitava0321/blob/main/assets/blockchain-essentials-for-developers.png" /> 
+  <img height='100px' src="https://github.com/camitava0321/camitava0321/blob/main/assets/ibm-design-thinking.png" /> 
     </td>
   </tr>
 </table>
