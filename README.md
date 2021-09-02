@@ -10,6 +10,17 @@
 <table>
   <tr>
     <td>
+<p align="center"> <img width='400px' src="https://github.com/camitava0321/camitava0321/blob/main/assets/002.jpg" /> </p>
+<p align="center"> 
+  <img height='25px' src="https://komarev.com/ghpvc/?username=camitava0321&label=Profile%20views&color=0e75b6&style=flat" alt="camitava0321" /> 
+  <a href="https://twitter.com/camitava0321" target="blank"><img height='25px' src="https://img.shields.io/twitter/follow/camitava0321?logo=twitter&style=for-the-badge" alt="camitava0321" /></a> 
+      </p>
+    </td>
+    <td>
+  <img height='25px' src="https://github.com/camitava0321/camitava0321/blob/main/assets/architect-certification-level-expert.png" /> 
+    </td>
+  </tr>
+</table>
 
 - 🔭 I’m currently working on **ABC**
 
@@ -31,16 +42,6 @@
 
 - 😄 Pronouns: ...
 - ⚡ Fun fact **abc**
-    </td>
-    <td>
-<p align="center"> <img width='400px' src="https://github.com/camitava0321/camitava0321/blob/main/assets/002.jpg" /> </p>
-<p align="center"> 
-  <img height='25px' src="https://komarev.com/ghpvc/?username=camitava0321&label=Profile%20views&color=0e75b6&style=flat" alt="camitava0321" /> 
-  <a href="https://twitter.com/camitava0321" target="blank"><img height='25px' src="https://img.shields.io/twitter/follow/camitava0321?logo=twitter&style=for-the-badge" alt="camitava0321" /></a> 
-      </p>
-    </td>
-  </tr>
-</table>
 
 
 
