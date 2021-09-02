@@ -7,7 +7,7 @@
 
 
 
-<table width='90%' border=0>
+<table>
   <tr>
     <td>
 
