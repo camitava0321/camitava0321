@@ -85,7 +85,7 @@
 <a href="https://medium.com/camitavasubs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="camitavasubs" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/camitavasubs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="camitavasubs" height="30" width="40" /></a>
 <a href="https://discord.gg/camitavasubs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="camitavasubs" height="30" width="40" /></a>
-<a href="/a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="camitavasubs" height="30" width="40" /></a>
+<a href="https://quantumcomputing.stackexchange.com/feeds/user/9201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="camitavasubs" height="30" width="40" /></a>
     </td>
   </tr>
 </table>
