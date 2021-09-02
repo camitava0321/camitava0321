@@ -98,11 +98,27 @@
 <img align="" height='150px' src="https://github-readme-stats.vercel.app/api?username=camitava0321&hide_title=true&show_icons=true&theme=gotham&include_all_commits=true" alt="camitava0321" /><img align="" height='150px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=camitava0321&hide_title=false&layout=compact&theme=gotham&count_private=true" />
 </p>
 
+<table>
+  <tr>
+    <td>Work In Progress</td>
+    <td>Connect With Me</td>
+  </tr>
+  <tr>
+    <td>
+<img align="" src="http://github-readme-streak-stats.herokuapp.com?user=camitava0321&theme=blux" alt="camitava0321" />
+    </td>
+    <td>
+<img align="" height='150px' src="https://metrics.lecoq.io/camitava0321"/>
+    </td>
+  </tr>
+</table>
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=camitava0321&theme=blux)](https://git.io/streak-stats)
+![GitHub metrics](https://metrics.lecoq.io/camitava0321)
+
 
 |Github Streak|StackOverflow!|
 |:-----------:|:-----:|
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=camitava0321&theme=blux)](https://git.io/streak-stats)
-![GitHub metrics](https://metrics.lecoq.io/camitava0321)
 
 [![StackOverflow](https://github-readme-stackexchange.vercel.app/?userID=camitavasubs&theme=dark)](https://quantumcomputing.stackexchange.com/users/9201/amitava-chakraborty)
 [![trophy](https://github-profile-trophy.vercel.app/?username=camitava0321&theme=juicyfresh)](https://github.com/ryo-ma/github-profile-trophy)
