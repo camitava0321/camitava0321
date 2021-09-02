@@ -25,33 +25,20 @@
     <td>Connect With Me</td>
   </tr>
   <tr>
-    <td><a href="https://www.kaggle.com/amitavachakraborty"><img align="left" alt="Amitava In Kaggle" width="30px" src="https://github.com/camitava0321/camitava0321/blob/main/assets/kaggle-icon.svg" /></a>     
-        <a href="https://camitavasubs.hashnode.dev"><img align="left" alt="Amitava In Hashnode Blog" width="30px" src="https://github.com/camitava0321/camitava0321/blob/main/assets/hashnode.svg" /></a>    <a href="https://dockship.io/author/camitava0321"><img align="left" alt="Amitava In Dockship" width="80px" src="https://github.com/camitava0321/camitava0321/blob/main/assets/dockship-logo.png" /></a></td>
-    <td><a href="https://www.linkedin.com/in/amitavachakraborty/"><img align="left" alt="Amitava In LinkedIn" width="30px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg" /></a>
+    <td>
+      <a href="https://www.kaggle.com/amitavachakraborty"><img align="left" alt="Amitava In Kaggle" width="30px" src="https://github.com/camitava0321/camitava0321/blob/main/assets/kaggle-icon.svg" /></a>     
+      <a href="https://camitavasubs.hashnode.dev"><img align="left" alt="Amitava In Hashnode Blog" width="30px" src="https://github.com/camitava0321/camitava0321/blob/main/assets/hashnode.svg" /></a>    <a href="https://dockship.io/author/camitava0321"><img align="left" alt="Amitava In Dockship" width="80px" src="https://github.com/camitava0321/camitava0321/blob/main/assets/dockship-logo.png" /></a>
+    </td>
+    <td>
+      <a href="https://www.linkedin.com/in/amitavachakraborty/"><img align="left" alt="Amitava In LinkedIn" width="30px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg" /></a>
       <a href="https://stackoverflow.com/users/13949231/camitava0321"><img align="left" alt="Amitava In Stackoverlfow" width="30px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/stackoverflow.svg"/></a>
 <a href="mailto:camitavasubs@gmail.com"><img align="left" alt="Amitava In  Gmail" width="30px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/gmail.svg" /></a>
       <a href="https://www.facebook.com/camitava0321/"><img align="left" alt="Amitava In Twitter" width="30px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/facebook.svg" /></a>
-<a href="https://www.instagram.com/camitava0321/"><img align="left" alt="Amitava In Instagram" width="30px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/instagram.svg" /></a>
-<a href="https://www.reddit.com/user/aryashah2k/"><img align="left" alt="Arya's Reddit" width="30px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/reddit.svg" /></a>
-<a href="mailto:aryashah2k@gmail.com"><img align="left" alt="Arya's Person Email" width="30px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/gmail.svg" /></a>
-      <a href="https://www.linkedin.com/in/arya--shah/"><img align="left" alt="Arya's LinkedIn" width="30px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg" /></a>
-<a href="https://stackoverflow.com/users/13949231/aryashah2k"><img align="left" alt="Arya's Stackoverlfow" width="30px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/stackoverflow.svg"/></a>
-<a href="mailto:arya.shah82@nmims.edu.in"><img align="left" alt="Arya's Institute Email" width="30px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/gmail.svg" /></a>
-</td>
+      <a href="https://www.instagram.com/camitava0321/"><img align="left" alt="Amitava In Instagram" width="30px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/instagram.svg" /></a>
+      <a href="https://www.reddit.com/user/camitava0321/"><img align="left" alt="Arya's Reddit" width="30px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/reddit.svg" /></a>
+    </td>
   </tr>
 </table>
-
-|Follow / Connect With Me|
-|-----|
-|<a href="https://www.linkedin.com/in/amitavachakraborty/"><img align="left" alt="Amitava In LinkedIn" width="30px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg" /></a><a href="https://stackoverflow.com/users/13949231/camitava0321"><img align="left" alt="Amitava In Stackoverlfow" width="30px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/stackoverflow.svg"/></a>
-<a href="mailto:camitavasubs@gmail.com"><img align="left" alt="Amitava In  Gmail" width="30px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/gmail.svg" /></a>|
-|<a href="https://www.facebook.com/camitava0321/"><img align="left" alt="Amitava In Twitter" width="30px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/facebook.svg" /></a>
-<a href="https://www.instagram.com/camitava0321/"><img align="left" alt="Amitava In Instagram" width="30px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/instagram.svg" /></a>
-<a href="https://www.reddit.com/user/aryashah2k/"><img align="left" alt="Arya's Reddit" width="30px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/reddit.svg" /></a>
-<a href="mailto:aryashah2k@gmail.com"><img align="left" alt="Arya's Person Email" width="30px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/gmail.svg" /></a>|
-<a href="https://www.linkedin.com/in/arya--shah/"><img align="left" alt="Arya's LinkedIn" width="30px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg" /></a>
-<a href="https://stackoverflow.com/users/13949231/aryashah2k"><img align="left" alt="Arya's Stackoverlfow" width="30px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/stackoverflow.svg"/></a>
-<a href="mailto:arya.shah82@nmims.edu.in"><img align="left" alt="Arya's Institute Email" width="30px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/gmail.svg" /></a>|
 
 
 
