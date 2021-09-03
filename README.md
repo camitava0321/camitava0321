@@ -59,8 +59,8 @@
 
 <table>
   <tr>
-    <td>Work In Progress</td>
-    <td><a href="https://kaggle.com/camitavasubs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="camitavasubs" height="30" width="40" /></a>
+    <td>Works...</td>
+    <td>
       <a href="https://www.kaggle.com/amitavachakraborty"><img align="left" alt="Amitava In Kaggle" width="30px" src="https://github.com/camitava0321/camitava0321/blob/main/assets/kaggle-icon.svg" /></a>     
       <a href="https://camitavadev.hashnode.dev/" target="_blank" rel="noopener noreferrer"><img align="left" alt="Amitava In Hashnode Blog" width="30px" src="https://github.com/camitava0321/camitava0321/blob/main/assets/hashnode.svg" /></a>    
       <a href="https://dockship.io/author/camitava0321"><img align="left" alt="Amitava In Dockship" width="80px" src="https://github.com/camitava0321/camitava0321/blob/main/assets/dockship-logo.png" /></a>
