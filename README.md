@@ -61,7 +61,8 @@
   <tr>
     <td>Works...</td>
     <td>
-      <a href="https://www.kaggle.com/amitavachakraborty"><img align="left" alt="Amitava In Kaggle" width="30px" src="https://github.com/camitava0321/camitava0321/blob/main/assets/kaggle-icon.svg" /></a>     
+      <a href="https://www.kaggle.com/amitavachakraborty"><img align="left" alt="Amitava In Kaggle" width="30px" src="https://github.com/camitava0321/camitava0321/blob/main/assets/kaggle-icon.svg" /></a>
+      <a href="https://quantumcomputing.stackexchange.com/users/9201/amitava-chakraborty" target="blank"><img align="center" src="https://github.com/camitava0321/camitava0321/blob/main/assets/stackexchange.png" alt="camitavasubs" height="30" width="30" /></a>
       <a href="https://camitavadev.hashnode.dev/" target="_blank" rel="noopener noreferrer"><img align="left" alt="Amitava In Hashnode Blog" width="30px" src="https://github.com/camitava0321/camitava0321/blob/main/assets/hashnode.svg" /></a>    
       <a href="https://dockship.io/author/camitava0321"><img align="left" alt="Amitava In Dockship" width="80px" src="https://github.com/camitava0321/camitava0321/blob/main/assets/dockship-logo.png" /></a>
 <a href="https://codepen.io/camitavasubs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="camitavasubs" height="30" width="40" /></a>
