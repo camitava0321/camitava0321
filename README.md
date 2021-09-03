@@ -84,20 +84,18 @@
 </td>
   </tr>
   <tr>
-    <td>Connect With Me</td>
+    <td>Connect</td>
     <td>
       <a href="https://linkedin.com/in/amitavachakraborty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amitavachakraborty" height="30" width="40" /></a>
-<a href="https://fb.com/camitavasubs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="camitavasubs" height="30" width="40" /></a>
-<a href="mailto:camitavasubs@gmail.com"><img align="left" alt="Amitava In  Gmail" width="30px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/gmail.svg" /></a>
+      <a href="mailto:camitavasubs@gmail.com"><img align="left" alt="Amitava In  Gmail" width="30px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/gmail.svg" /></a>
       <a href="https://www.facebook.com/camitava0321/"><img align="left" alt="Amitava In Twitter" width="30px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/facebook.svg" /></a>
       <a href="https://www.instagram.com/camitava0321/"><img align="left" alt="Amitava In Instagram" width="30px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/instagram.svg" /></a>
       <a href="https://www.reddit.com/user/camitava0321/"><img align="left" alt="Arya's Reddit" width="30px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/reddit.svg" /></a>
-<a href="https://twitter.com/camitava0321" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="camitavasubs" height="30" width="40" /></a>
-<a href="https://instagram.com/camitavasubs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="camitavasubs" height="30" width="40" /></a>
-<a href="https://quantumcomputingandai.medium.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="camitavasubs" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/camitavasubs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="camitavasubs" height="30" width="40" /></a>
-<a href="https://discord.gg/camitavasubs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="camitavasubs" height="30" width="40" /></a>
-<a href="https://quantumcomputing.stackexchange.com/feeds/user/9201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="camitavasubs" height="30" width="40" /></a>
+      <a href="https://twitter.com/camitava0321" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="camitavasubs" height="30" width="40" /></a>
+      <a href="https://quantumcomputingandai.medium.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="camitavasubs" height="30" width="40" /></a>
+      <a href="https://www.youtube.com/c/quantumcomputingandai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="camitavasubs" height="30" width="40" /></a>
+      <a href="https://discord.gg/camitavasubs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="camitavasubs" height="30" width="40" /></a>
+      <a href="https://quantumcomputing.stackexchange.com/feeds/user/9201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="camitavasubs" height="30" width="40" /></a>
     </td>
   </tr>
 </table>
