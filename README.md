@@ -37,7 +37,7 @@
 
 - 🤝 I’m looking for help with **GHI**
 
-- 👨‍💻 All of my projects are available at [a.b](a.b)
+- 👨‍💻 All of my projects are available at [Works Section](#works)
 
 - 📝 I regularly write articles on [a.b](a.b)
 
@@ -59,7 +59,7 @@
 
 <table>
   <tr>
-    <td>Works...</td>
+    <td id="works">Works...</td>
     <td>
       <a href="https://www.kaggle.com/amitavachakraborty"><img align="left" alt="Amitava In Kaggle" width="30px" src="https://github.com/camitava0321/camitava0321/blob/main/assets/kaggle-icon.svg" /></a>
       <a href="https://quantumcomputing.stackexchange.com/users/9201/amitava-chakraborty" target="blank"><img align="center" src="https://github.com/camitava0321/camitava0321/blob/main/assets/stackexchange.png" alt="camitavasubs" height="30" width="30" /></a>
