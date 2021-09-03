@@ -62,7 +62,8 @@
     <td>Work In Progress</td>
     <td><a href="https://kaggle.com/camitavasubs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="camitavasubs" height="30" width="40" /></a>
       <a href="https://www.kaggle.com/amitavachakraborty"><img align="left" alt="Amitava In Kaggle" width="30px" src="https://github.com/camitava0321/camitava0321/blob/main/assets/kaggle-icon.svg" /></a>     
-      <a href="https://camitavasubs.hashnode.dev"><img align="left" alt="Amitava In Hashnode Blog" width="30px" src="https://github.com/camitava0321/camitava0321/blob/main/assets/hashnode.svg" /></a>    <a href="https://dockship.io/author/camitava0321"><img align="left" alt="Amitava In Dockship" width="80px" src="https://github.com/camitava0321/camitava0321/blob/main/assets/dockship-logo.png" /></a>
+      <a href="https://camitavadev.hashnode.dev/" target="_blank" rel="noopener noreferrer"><img align="left" alt="Amitava In Hashnode Blog" width="30px" src="https://github.com/camitava0321/camitava0321/blob/main/assets/hashnode.svg" /></a>    
+      <a href="https://dockship.io/author/camitava0321"><img align="left" alt="Amitava In Dockship" width="80px" src="https://github.com/camitava0321/camitava0321/blob/main/assets/dockship-logo.png" /></a>
 <a href="https://codepen.io/camitavasubs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="camitavasubs" height="30" width="40" /></a>
 <a href="https://dev.to/camitavasubs" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="camitavasubs" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/camitavasubs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="camitavasubs" height="30" width="40" /></a>
@@ -77,6 +78,9 @@
 <a href="https://www.hackerearth.com/camitavasubs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="camitavasubs" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/camitavasubs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="camitavasubs" height="30" width="40" /></a>
 <a href="https://www.topcoder.com/members/camitavasubs" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/topcoder.svg" alt="camitavasubs" height="30" width="40" /></a>
+<a href="https://app.swaggerhub.com/home" target="_blank" rel="noopener noreferrer"> <img align="center" src="https://github.com/camitava0321/camitava0321/blob/main/assets/swaggerhub-logo.png" alt="swaggerhub" width="30" height="30"/> </a> 
+<a href="https://www.researchgate.net/profile/Amitava-Chakraborty" target="_blank" rel="noopener noreferrer"> <img align="center" src="https://github.com/camitava0321/camitava0321/blob/main/assets/swaggerhub-logo.png" alt="swaggerhub" width="30" height="30"/> </a> 
+
 </td>
   </tr>
   <tr>
@@ -154,8 +158,7 @@
   <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> 
   <a href="https://kubernetes.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> 
   <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
-</p><p align="left"> 
-  <a href="https://app.swaggerhub.com/home" target="_blank"> <img src="https://github.com/camitava0321/camitava0321/blob/main/assets/swaggerhub-logo.svg" alt="swaggerhub" width="40" height="40"/> </a> 
+  <a href="https://app.swaggerhub.com/home" target="_blank"> <img src="https://github.com/camitava0321/camitava0321/blob/main/assets/swaggerhub-logo.png" alt="swaggerhub" width="40" height="40"/> </a> 
 </p><p align="left"> 
   
   <a href="https://kafka.apache.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> 
