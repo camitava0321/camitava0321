@@ -64,8 +64,7 @@
       <a href="https://www.kaggle.com/amitavachakraborty"><img align="left" alt="Amitava In Kaggle" width="30px" src="https://github.com/camitava0321/camitava0321/blob/main/assets/kaggle-icon.svg" /></a>
       <a href="https://quantumcomputing.stackexchange.com/users/9201/amitava-chakraborty" target="blank"><img align="center" src="https://github.com/camitava0321/camitava0321/blob/main/assets/stackexchange.png" alt="camitavasubs" height="30" width="30" /></a>
       <a href="https://camitavadev.hashnode.dev/" target="_blank" rel="noopener noreferrer"><img align="left" alt="Amitava In Hashnode Blog" width="30px" src="https://github.com/camitava0321/camitava0321/blob/main/assets/hashnode.svg" /></a>    
-      <a href="https://dockship.io/author/camitava0321"><img align="left" alt="Amitava In Dockship" width="80px" src="https://github.com/camitava0321/camitava0321/blob/main/assets/dockship-logo.png" /></a>
-<a href="https://codepen.io/camitavasubs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="camitavasubs" height="30" width="40" /></a>
+      <a href="https://codepen.io/camitavasubs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="camitavasubs" height="30" width="40" /></a>
 <a href="https://dev.to/camitavasubs" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="camitavasubs" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/camitavasubs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="camitavasubs" height="30" width="40" /></a>
 <a href="https://codesandbox.com/camitavasubs" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="camitavasubs" height="30" width="40" /></a>
@@ -79,8 +78,8 @@
 <a href="https://auth.geeksforgeeks.org/user/camitavasubs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="camitavasubs" height="30" width="40" /></a>
 <a href="https://www.topcoder.com/members/camitavasubs" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/topcoder.svg" alt="camitavasubs" height="30" width="40" /></a>
 <a href="https://app.swaggerhub.com/home" target="_blank" rel="noopener noreferrer"> <img align="center" src="https://github.com/camitava0321/camitava0321/blob/main/assets/swaggerhub-logo.png" alt="swaggerhub" width="30" height="30"/> </a> 
-<a href="https://www.researchgate.net/profile/Amitava-Chakraborty" target="_blank" rel="noopener noreferrer"> <img align="center" src="https://github.com/camitava0321/camitava0321/blob/main/assets/researchgate.png" alt="swaggerhub" width="30" height="30"/> </a> 
-
+<a href="https://www.researchgate.net/profile/Amitava-Chakraborty" target="_blank" rel="noopener noreferrer"> <img align="center" src="https://github.com/camitava0321/camitava0321/blob/main/assets/researchgate.png" alt="swaggerhub" width="30" height="30"/> </a>
+      <a href="https://dockship.io/author/amitav-360"><img align="left" alt="Amitava In Dockship" width="80px" src="https://github.com/camitava0321/camitava0321/blob/main/assets/dockship-logo.png" /></a>
 </td>
   </tr>
   <tr>
