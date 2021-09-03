@@ -39,11 +39,11 @@
 
 - 👨‍💻 All of my projects are available at [Works Section](#works)
 
-- 📝 I regularly write articles on [a.b](a.b)
+- 📝 I regularly write articles on [Amitava's Dailies](https://camitavadailies.wordpress.com/author/camitava/)
 
-- 💬 Ask me about **ABCD**
+- 💬 Ask me about **Quantum Computing, AI and Generic IT Architecting**
 
-- 📫 How to reach me **a@gmail.com**
+- 📫 How to reach me [see Connect Section](#connect)
 
 - 📄 Know about my experiences [resume-link](resume-link)
 
@@ -84,7 +84,7 @@
 </td>
   </tr>
   <tr>
-    <td>Connect</td>
+    <td id="connect">Connect</td>
     <td>
       <a href="https://linkedin.com/in/amitavachakraborty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amitavachakraborty" height="30" width="40" /></a>
       <a href="mailto:camitavasubs@gmail.com"><img align="left" alt="Amitava In  Gmail" width="30px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/gmail.svg" /></a>
