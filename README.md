@@ -52,11 +52,6 @@
 
 
 
-
-
-
-
-
 <table>
   <tr>
     <td id="works">Works...</td>
@@ -68,12 +63,12 @@
       <a href="https://dev.to/camitavasubs" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="camitavasubs" height="30" width="40" /></a>
       <a href="https://stackoverflow.com/users/camitavasubs" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="camitavasubs" height="30" width="40" /></a>
 <a href="https://codesandbox.com/camitavasubs" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="camitavasubs" height="30" width="40" /></a>
-      <a href="https://dribbble.com/camitavasubs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="camitavasubs" height="30" width="40" /></a>
-      <a href="https://www.behance.net/camitavasubs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="camitavasubs" height="30" width="40" /></a>
-      <a href="https://www.codechef.com/users/camitavasubs" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="camitavasubs" height="30" width="40" /></a>
-      <a href="https://www.hackerrank.com/camitavasubs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="camitavasubs" height="30" width="40" /></a>
-      <a href="https://codeforces.com/profile/camitavasubs" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="camitavasubs" height="30" width="40" /></a>
-      <a href="https://www.leetcode.com/camitavasubs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="camitavasubs" height="30" width="40" /></a>
+      <a href="https://dribbble.com/camitavadev?onboarding=true" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="camitavasubs" height="30" width="40" /></a>
+      <a href="https://www.behance.net/camitavadev" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="camitavasubs" height="30" width="40" /></a>
+      <a href="https://www.codechef.com/users/camitavadev" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="camitavasubs" height="30" width="40" /></a>
+      <a href="https://www.hackerrank.com/camitavadev" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="camitavasubs" height="30" width="40" /></a>
+      <a href="https://codeforces.com/profile/camitavadev" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="camitavasubs" height="30" width="40" /></a>
+      <a href="https://leetcode.com/camitavadev/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="camitavasubs" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/camitavasubs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="camitavasubs" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/camitavasubs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="camitavasubs" height="30" width="40" /></a>
 <a href="https://www.topcoder.com/members/camitavasubs" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/topcoder.svg" alt="camitavasubs" height="30" width="40" /></a>
