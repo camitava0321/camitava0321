@@ -17,6 +17,7 @@
       </p>
     </td>
     <td>
+  <img height='100px' src="https://github.com/camitava0321/camitava0321/blob/main/assets/IBM_Quantum_Challenge_Fall_2021_Achievement_-_Advanced.png" /> 
   <img height='100px' src="https://github.com/camitava0321/camitava0321/blob/main/assets/IBM_Quantum_Challenge_2021_Achievement_V2.png" /> 
   <img height='100px' src="https://github.com/camitava0321/camitava0321/blob/main/assets/First-patent.png" /> 
   <img height='100px' src="https://github.com/camitava0321/camitava0321/blob/main/assets/azure-ai-fundamentals-600x600.png" /> 
