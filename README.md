@@ -17,6 +17,7 @@
       </p>
     </td>
     <td>
+  <img height='100px' src="https://github.com/camitava0321/camitava0321/blob/main/assets/IBM_Quantum_Challenge_Fall_2021_Achievement_-_Advanced.png" /> 
   <img height='100px' src="https://github.com/camitava0321/camitava0321/blob/main/assets/IBM_Quantum_Challenge_2021_Achievement_V2.png" /> 
   <img height='100px' src="https://github.com/camitava0321/camitava0321/blob/main/assets/First-patent.png" /> 
   <img height='100px' src="https://github.com/camitava0321/camitava0321/blob/main/assets/azure-ai-fundamentals-600x600.png" /> 
@@ -74,7 +75,7 @@
       <a href="https://dockship.io/author/camitavadev"><img alt="Amitava In Dockship" width="80px" src="https://github.com/camitava0321/camitava0321/blob/main/assets/dockship-logo.png" /></a>
       <a href="https://dribbble.com/camitavadev?onboarding=true" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="camitavasubs" height="30" width="40" /></a>
       <a href="https://www.behance.net/camitavadev" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="camitavasubs" height="30" width="40" /></a>
-       <a href="https://dzone.com/users/4711928/camitava0321.html" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="camitavasubs" height="30" width="40" /></a>
+       <a href="https://dzone.com/users/4711928/camitava0321.html" target="blank"><img src="https://github.com/camitava0321/camitava0321/blob/main/assets/dzone.png" alt="camitavasubs" height="30" width="30" /></a>
 
 </td>
   </tr>
