@@ -37,13 +37,13 @@
 
 - 🤝 I’m looking for help with **GHI**
 
-- 👨‍💻 All of my projects are available at [a.b](a.b)
+- 👨‍💻 All of my projects are available at [Works Section](#works)
 
-- 📝 I regularly write articles on [a.b](a.b)
+- 📝 I regularly write articles on [Amitava's Dailies](https://camitavadailies.wordpress.com/author/camitava/)
 
-- 💬 Ask me about **ABCD**
+- 💬 Ask me about **Quantum Computing, AI and Generic IT Architecting**
 
-- 📫 How to reach me **a@gmail.com**
+- 📫 How to reach me [see Connect Section](#connect)
 
 - 📄 Know about my experiences [resume-link](resume-link)
 
@@ -51,51 +51,46 @@
 - ⚡ Fun fact **abc**
 
 
-
-
-
-
-
-
 <table>
   <tr>
-    <td>Works...</td>
+    <td id="works">Works...</td>
     <td>
-      <a href="https://www.kaggle.com/amitavachakraborty"><img align="left" alt="Amitava In Kaggle" width="30px" src="https://github.com/camitava0321/camitava0321/blob/main/assets/kaggle-icon.svg" /></a>
-      <a href="https://quantumcomputing.stackexchange.com/users/9201/amitava-chakraborty" target="blank"><img align="center" src="https://github.com/camitava0321/camitava0321/blob/main/assets/stackexchange.png" alt="camitavasubs" height="30" width="30" /></a>
-      <a href="https://camitavadev.hashnode.dev/" target="_blank" rel="noopener noreferrer"><img align="left" alt="Amitava In Hashnode Blog" width="30px" src="https://github.com/camitava0321/camitava0321/blob/main/assets/hashnode.svg" /></a>    
-      <a href="https://dockship.io/author/camitava0321"><img align="left" alt="Amitava In Dockship" width="80px" src="https://github.com/camitava0321/camitava0321/blob/main/assets/dockship-logo.png" /></a>
-<a href="https://codepen.io/camitavasubs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="camitavasubs" height="30" width="40" /></a>
-<a href="https://dev.to/camitavasubs" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="camitavasubs" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/camitavasubs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="camitavasubs" height="30" width="40" /></a>
-<a href="https://codesandbox.com/camitavasubs" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="camitavasubs" height="30" width="40" /></a>
-      <a href="https://dribbble.com/camitavasubs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="camitavasubs" height="30" width="40" /></a>
-      <a href="https://www.behance.net/camitavasubs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="camitavasubs" height="30" width="40" /></a>
-      <a href="https://www.codechef.com/users/camitavasubs" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="camitavasubs" height="30" width="40" /></a>
-      <a href="https://www.hackerrank.com/camitavasubs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="camitavasubs" height="30" width="40" /></a>
-      <a href="https://codeforces.com/profile/camitavasubs" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="camitavasubs" height="30" width="40" /></a>
-      <a href="https://www.leetcode.com/camitavasubs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="camitavasubs" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/camitavasubs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="camitavasubs" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/camitavasubs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="camitavasubs" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/camitavasubs" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/topcoder.svg" alt="camitavasubs" height="30" width="40" /></a>
-<a href="https://app.swaggerhub.com/home" target="_blank" rel="noopener noreferrer"> <img align="center" src="https://github.com/camitava0321/camitava0321/blob/main/assets/swaggerhub-logo.png" alt="swaggerhub" width="30" height="30"/> </a> 
-<a href="https://www.researchgate.net/profile/Amitava-Chakraborty" target="_blank" rel="noopener noreferrer"> <img align="center" src="https://github.com/camitava0321/camitava0321/blob/main/assets/researchgate.png" alt="swaggerhub" width="30" height="30"/> </a> 
+      <a href="https://www.kaggle.com/amitavachakraborty"><img alt="Amitava In Kaggle" width="30px" src="https://github.com/camitava0321/camitava0321/blob/main/assets/kaggle-icon.svg" /></a>
+      <a href="https://quantumcomputing.stackexchange.com/users/9201/amitava-chakraborty" target="blank"><img src="https://github.com/camitava0321/camitava0321/blob/main/assets/stackexchange.png" alt="camitavasubs" height="30" width="30" /></a>
+      <a href="https://camitavadev.hashnode.dev/" target="_blank" rel="noopener noreferrer"><img alt="Amitava In Hashnode Blog" width="30px" src="https://github.com/camitava0321/camitava0321/blob/main/assets/hashnode.svg" /></a>
+      <a href="https://codepen.io/camitava0321" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="camitavasubs" height="30" width="40" /></a>
+      <a href="https://dev.to/camitava0321" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="camitavasubs" height="30" width="40" /></a>
+      <a href="https://stackoverflow.com/users/16829088/amitava-chakraborty" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="camitavasubs" height="30" width="40" /></a>
+      <a href="https://www.codechef.com/users/camitavadev" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="camitavasubs" height="30" width="40" /></a>
+      <a href="https://www.hackerrank.com/camitavadev" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="camitavasubs" height="30" width="40" /></a>
+      <a href="https://codeforces.com/profile/camitavadev" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="camitavasubs" height="30" width="40" /></a>
+      <a href="https://leetcode.com/camitavadev/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="camitavasubs" height="30" width="40" /></a>
+      <a href="http://www.hackerearth.com/@camitavadev" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="camitavasubs" height="30" width="40" /></a>
+      <a href="https://auth.geeksforgeeks.org/user/camitavadev/profile" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="camitavasubs" height="30" width="40" /></a>
+      <a href="https://www.topcoder.com/members/camitavadev" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/topcoder.svg" alt="camitavasubs" height="30" width="40" /></a>
+      <a href="https://codesandbox.com/camitavasubs" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="camitavasubs" height="30" width="40" /></a>
+      <a href="https://app.swaggerhub.com/home" target="_blank" rel="noopener noreferrer"><img src="https://github.com/camitava0321/camitava0321/blob/main/assets/swaggerhub-logo.png" alt="swaggerhub" width="30" height="30"/></a>
+      <a href="https://www.researchgate.net/profile/Amitava-Chakraborty" target="_blank" rel="noopener noreferrer"><img src="https://github.com/camitava0321/camitava0321/blob/main/assets/researchgate.png" alt="swaggerhub" width="30" height="30"/></a>
+      <a href="https://dockship.io/author/camitavadev"><img alt="Amitava In Dockship" width="80px" src="https://github.com/camitava0321/camitava0321/blob/main/assets/dockship-logo.png" /></a>
+      <a href="https://dribbble.com/camitavadev?onboarding=true" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="camitavasubs" height="30" width="40" /></a>
+      <a href="https://www.behance.net/camitavadev" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="camitavasubs" height="30" width="40" /></a>
+       <a href="https://dzone.com/users/4711928/camitava0321.html" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="camitavasubs" height="30" width="40" /></a>
 
 </td>
   </tr>
   <tr>
-    <td>Connect</td>
+    <td id="connect">Connect</td>
     <td>
-      <a href="https://linkedin.com/in/amitavachakraborty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amitavachakraborty" height="30" width="40" /></a>
-      <a href="mailto:camitavasubs@gmail.com"><img align="left" alt="Amitava In  Gmail" width="30px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/gmail.svg" /></a>
-      <a href="https://www.facebook.com/camitava0321/"><img align="left" alt="Amitava In Twitter" width="30px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/facebook.svg" /></a>
-      <a href="https://www.instagram.com/camitava0321/"><img align="left" alt="Amitava In Instagram" width="30px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/instagram.svg" /></a>
-      <a href="https://www.reddit.com/user/camitava0321/"><img align="left" alt="Arya's Reddit" width="30px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/reddit.svg" /></a>
+      <a href="https://linkedin.com/in/amitavachakraborty" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amitavachakraborty" height="30" width="40" /></a>
+      <a href="https://www.youtube.com/channel/UCFsbWWDDQA0YYEUPgpvtJpg" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="camitavasubs" height="30" width="40" /></a>
+      <a href="mailto:camitavasubs@gmail.com"><img alt="Amitava In  Gmail" width="30px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/gmail.svg" /></a>
+      <a href="https://www.facebook.com/camitava0321/"><img alt="Amitava In Twitter" width="30px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/facebook.svg" /></a>
       <a href="https://twitter.com/camitava0321" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="camitavasubs" height="30" width="40" /></a>
       <a href="https://quantumcomputingandai.medium.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="camitavasubs" height="30" width="40" /></a>
-      <a href="https://www.youtube.com/c/quantumcomputingandai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="camitavasubs" height="30" width="40" /></a>
-      <a href="https://discord.gg/camitavasubs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="camitavasubs" height="30" width="40" /></a>
-      <a href="https://quantumcomputing.stackexchange.com/feeds/user/9201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="camitavasubs" height="30" width="40" /></a>
+      <a href="https://www.reddit.com/user/camitava"><img alt="Amitava In Reddit" width="30px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/reddit.svg" /></a>
+      <a href="https://www.instagram.com/camitava0321/"><img alt="Amitava In Instagram" width="30px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/instagram.svg" /></a>
+      <a href="https://discord.gg/camitavasubs" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="camitavasubs" height="30" width="40" /></a>
+      <a href="https://quantumcomputing.stackexchange.com/feeds/user/9201" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="camitavasubs" height="30" width="40" /></a>
     </td>
   </tr>
 </table>
